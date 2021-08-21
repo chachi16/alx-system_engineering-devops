@@ -1,2 +1,2 @@
 #!/bin/bash
-path of working directory
+shell basics
