@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "$(echo 'obase=10; ibase=2; 11' | bc)\n"
