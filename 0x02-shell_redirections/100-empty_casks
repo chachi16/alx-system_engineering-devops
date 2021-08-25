@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 1 -empty | cut -f9
+find . -empty |rev | cut -d '/' -f9 | rev
