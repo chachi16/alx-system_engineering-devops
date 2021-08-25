@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -dar */ | wc  
+find ./* -maxdepth 0 -type d | wc -l  
