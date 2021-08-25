@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e {a..n}{a..z}"\n" o{{a..n},{p..z}}"\n" {p..z}{a..z}"\n"
+echo -e {a..n}{a..z}"\n" o{{a..n},{p..z}}"\n" {p..z}{a..z}"\n" | head -n 675
